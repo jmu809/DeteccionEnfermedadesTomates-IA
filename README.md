@@ -181,18 +181,18 @@ El conjunto de test y validación solo usa `Resize` y `Normalize`, sin aumentaci
 
 ### F1-Score por clase (Test Set)
 
-| Clase | F1-Score | |
-|-------|----------|-|
-| Tomato Yellow Leaf Curl Virus | 0.974 | ✅ Excelente |
-| Healthy | 0.974 | ✅ Excelente |
-| Late Blight | 0.953 | ✅ Excelente |
-| Bacterial Spot | 0.945 | ✅ Excelente |
-| Septoria Leaf Spot | 0.937 | ✅ Excelente |
-| Leaf Mold | 0.932 | ✅ Excelente |
-| Spider Mites | 0.920 | ✅ Excelente |
-| Target Spot | 0.912 | ✅ Excelente |
-| Early Blight | 0.903 | ✅ Excelente |
-| **Tomato Mosaic Virus** | **0.878** | ⚠️ Mejorable |
+| Clase | F1-Score |
+|-------|----------|
+| Tomato Yellow Leaf Curl Virus | 0.974 |
+| Healthy | 0.974 |
+| Late Blight | 0.953 |
+| Bacterial Spot | 0.945 |
+| Septoria Leaf Spot | 0.937 |
+| Leaf Mold | 0.932 |
+| Spider Mites | 0.920 |
+| Target Spot | 0.912 |
+| Early Blight | 0.903 |
+| **Tomato Mosaic Virus** | **0.878** |
 
 ### Curvas de entrenamiento
 
